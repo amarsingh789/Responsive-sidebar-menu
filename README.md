@@ -14,15 +14,10 @@ This is a simple responsive sidebar navigation menu built using **HTML** and **C
 - Responsive layout for mobile and desktop
 - Social media icon section
 
-## 📸 Preview
-(You can add a screenshot or gif here)
 
 ## 📂 How to Use
 1. Clone this repository
 2. Open `index.html` in your browser
-
-## 🌐 Live Demo
-(You can add GitHub Pages link after deployment)
 
 ## 👨‍💻 Author
 Made by **Amar Singh**
